@@ -1,12 +1,12 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href=https://github.com/Ambady999/Adv-Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Ambady999/Adv-Auto-Filter-Bot-V2fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
